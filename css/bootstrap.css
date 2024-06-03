@@ -525,6 +525,10 @@ h3 {
   margin-top: 20px;
   margin-bottom: 10px;
 }
+h4 {
+  margin-top: 20px;
+  margin-bottom: 5px;
+}
 
 h1 small,
 h2 small,
@@ -535,9 +539,9 @@ h3 .small {
   font-size: 50%;
 }
 
-h4 {  
-  margin-left: 10px; /* change edit margin indent */ 
-}
+/* h4 {  
+  margin-left: 10px; 
+} */
 h5,
 h6 {
   margin-top: 10px;
